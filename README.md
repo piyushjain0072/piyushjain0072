@@ -1,7 +1,5 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+I am a Tech Lead Software Engineer having 8 years of experience in various technologies. My primary focus areas are Serverless Architecture(AWS), AWS EC2, AWS S3, Nodejs, Angular, etc.
 <br>
 
 ## Connect with me
