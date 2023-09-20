@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a Tech Lead Software Engineer having 8 years of experience in various technologies. My primary focus areas are Serverless Architecture(AWS), AWS EC2, AWS S3, Nodejs, Angular, etc.
+I am a Specialist Software Engineer having 9.1 years of experience in various technologies. My primary focus areas are Serverless Architecture(AWS), AWS EC2, AWS S3, Azure, Nodejs, Angular, etc.
 <br>
 
 ## Connect with me
